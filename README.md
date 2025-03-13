@@ -4,7 +4,7 @@ This is a static personal portfolio website for Brett Stokes, a Data Analyst. Th
 
 ## Live Demo
 
-Visit the website: [brett-stokes.com](https://brett-stokes.com)
+Visit the website: (https://bstokes0971.github.io/brett-stokes-online-resume/)
 
 ## Features
 
